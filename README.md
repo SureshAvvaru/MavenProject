@@ -1,2 +1,2 @@
 # Augustrepo
-August Practise
+August Practise creating git repository
